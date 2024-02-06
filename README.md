@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+https://github.com/mohammed-2-5/Simple_Quran_app/assets/69656704/3bdefb3a-16f4-43a9-95b6-733e857927aa
+
